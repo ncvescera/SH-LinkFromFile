@@ -1,5 +1,5 @@
 # SH-Link_From_File
-Questo script SH trova cerca i file index.html e poi crea un collegamento simbolico per ogni file trovato.
+Questo script SH cerca i file index.html e poi crea un collegamento simbolico per ogni file trovato.
 
 #TODO
 Questo script va modificato per renderlo più generale possibile. Per ora trova SOLO i file inde.html presenti nella cartella di un CD quindi funziona solo nel mio PC :+1:
