@@ -7,5 +7,4 @@ while read LINE				#fin quando non trova una liena vuota CREDO
 do
   ln -s $LINE "link$i"			#link simbolico nel percorso presente in LINE con il nome variabile
   i=`expr $i + 1`			# i = i+1
-done < doc				
-
+done < doc
